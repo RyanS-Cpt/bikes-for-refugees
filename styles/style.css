@@ -139,3 +139,7 @@ button {
 	   max-height: 80px;
 	}
 }
+@media screen (min-width: 320px) {
+	p { text-size: 150%;
+	}
+}
